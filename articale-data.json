@@ -1,29 +1,30 @@
-[
+data = [
     {
-      "id": 1,
-      "estate_title": "Luxury Villa with Ocean View",
-      "segment_name": "Real Estate",
-      "user_name": "John Doe",
-      "user_img": "https://i.ibb.co/pn4smKc/image.png",
-      "published_date": "February 24, 2020",
-      "img": "https://i.ibb.co/VQdt7NT/oceanview-luxury-villa-phuket.webp"
+        "id": 1,
+        "estate_title": "Luxury Villa with Ocean View",
+        "segment_name": "Real Estate",
+        "user_name": "John Doe",
+        "user_img": "https://i.ibb.co/pn4smKc/image.png",
+        "published_date": "February 24, 2020",
+        "img": "https://i.ibb.co/VQdt7NT/oceanview-luxury-villa-phuket.webp"
     },
     {
-      "id": 2,
-      "estate_title": "Cozy Apartment in the City Center",
-      "segment_name": "Real Estate",
-      "user_name": "Jane Smith",
-      "user_img": "https://i.ibb.co/LRkcgZm/image.png",
-      "published_date": "February 15, 2020",
-      "img": "https://i.ibb.co/Ycxwkzy/Cozy-Apartment-in-the-City-Center.jpg"
+        "id": 2,
+        "estate_title": "Cozy Apartment in the City Center",
+        "segment_name": "Real Estate",
+        "user_name": "Jane Smith",
+        "user_img": "https://i.ibb.co/LRkcgZm/image.png",
+        "published_date": "February 15, 2020",
+        "img": "https://i.ibb.co/Ycxwkzy/Cozy-Apartment-in-the-City-Center.jpg"
     },
     {
-      "id": 3,
-      "estate_title": "Mountain Retreat Cabin",
-      "segment_name": "Real Estate",
-      "user_name": "Alex Johnson",
-      "user_img": "https://i.ibb.co/dBqVrkb/image.png",
-      "published_date": "February 28, 2020",
-      "img": "https://i.ibb.co/kSV5j0H/mountain-retreat.jpg"
+        "id": 3,
+        "estate_title": "Mountain Retreat Cabin",
+        "segment_name": "Real Estate",
+        "user_name": "Alex Johnson",
+        "user_img": "https://i.ibb.co/dBqVrkb/image.png",
+        "published_date": "February 28, 2020",
+        "img": "https://i.ibb.co/kSV5j0H/mountain-retreat.jpg"
     }
-  ]
+]
+
