@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Luxury Villa with Ocean View",
+      "segment_name": "Real Estate",
+      "user_name": "John Doe",
+      "user_img": "https://example.com/user1.jpg",
+      "published_date": "February 24, 2020",
+      "img": "https://example.com/property1.jpg"
+    },
+    {
+      "id": 2,
+      "estate_title": "Cozy Apartment in the City Center",
+      "segment_name": "Real Estate",
+      "user_name": "Jane Smith",
+      "user_img": "https://example.com/user2.jpg",
+      "published_date": "February 15, 2020",
+      "img": "https://example.com/property2.jpg"
+    },
+    {
+      "id": 3,
+      "estate_title": "Mountain Retreat Cabin",
+      "segment_name": "Real Estate",
+      "user_name": "Alex Johnson",
+      "user_img": "https://example.com/user3.jpg",
+      "published_date": "February 28, 2020",
+      "img": "https://example.com/property3.jpg"
+    }
+  ]
